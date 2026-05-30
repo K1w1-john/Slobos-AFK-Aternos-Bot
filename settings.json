@@ -1,13 +1,13 @@
 {
-  "name": "Don't-Kill-Me",
+  "name": "AFK bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "Johntran66619.aternos.me:63266",
-    "port": ,
+    "ip": "Johntran66619.aternos.me",
+    "port": "63266",
     "version": "1.21.11",
     "try-creative": false
   },
