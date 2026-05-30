@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Johntran66619.aternos.me",
-    "port": 63266,
+    "ip": "Johntran66619.aternos.me:63266",
+    "port": ,
     "version": "1.21.11",
     "try-creative": false
   },
